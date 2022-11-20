@@ -16,8 +16,8 @@ https://note-taking-web-app.herokuapp.com/
 
 ## Authors
 
-* **Sarthak S Kumar** - [Sarthak S Kumar](https://github.com/SarthakSKumar)
-* **Sathish Kumar G** - [Sathish Kumar G](https://github.com/sathishkumarg5024)
+* **Sarthak S Kumar** - [Sarthak S Kumar](https://github.com/SarthakSKumar).
+* **Sathish Kumar G** - [Sathish Kumar G](https://github.com/sathishkumarg5024).
 
 
 ## CSE Sem-3 Web Technologies Mini-Project, November 2022.
